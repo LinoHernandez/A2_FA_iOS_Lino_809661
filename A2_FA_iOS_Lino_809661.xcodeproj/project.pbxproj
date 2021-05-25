@@ -14,6 +14,7 @@
 		F8A462C3265C804C0042FC01 /* A2_FA_iOS_Lino_809661.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F8A462C1265C804C0042FC01 /* A2_FA_iOS_Lino_809661.xcdatamodeld */; };
 		F8A462C5265C804D0042FC01 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8A462C4265C804D0042FC01 /* Assets.xcassets */; };
 		F8A462C8265C804D0042FC01 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8A462C6265C804D0042FC01 /* LaunchScreen.storyboard */; };
+		F8A462DC265CB4B50042FC01 /* ProductViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A462DB265CB4B50042FC01 /* ProductViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		F8A462C4265C804D0042FC01 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F8A462C7265C804D0042FC01 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F8A462C9265C804D0042FC01 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F8A462DB265CB4B50042FC01 /* ProductViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				F8A462B8265C804C0042FC01 /* AppDelegate.swift */,
 				F8A462BA265C804C0042FC01 /* SceneDelegate.swift */,
 				F8A462BC265C804C0042FC01 /* ViewController.swift */,
+				F8A462DB265CB4B50042FC01 /* ProductViewController.swift */,
 				F8A462BE265C804C0042FC01 /* Main.storyboard */,
 				F8A462C4265C804D0042FC01 /* Assets.xcassets */,
 				F8A462C6265C804D0042FC01 /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 				F8A462BD265C804C0042FC01 /* ViewController.swift in Sources */,
 				F8A462B9265C804C0042FC01 /* AppDelegate.swift in Sources */,
 				F8A462BB265C804C0042FC01 /* SceneDelegate.swift in Sources */,
+				F8A462DC265CB4B50042FC01 /* ProductViewController.swift in Sources */,
 				F8A462C3265C804C0042FC01 /* A2_FA_iOS_Lino_809661.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
